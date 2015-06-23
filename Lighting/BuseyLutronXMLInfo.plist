@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BPLocation</key>
+	<string>/Users/nicks/Desktop/Savant/Busey/Busey_72_v1.rpmConfig</string>
+	<key>mapInfo</key>
+	<array>
+		<dict>
+			<key>lightZoneName</key>
+			<string>Entry</string>
+			<key>savantZoneName</key>
+			<string>Entry</string>
+		</dict>
+		<dict>
+			<key>lightZoneName</key>
+			<string>Office</string>
+			<key>savantZoneName</key>
+			<string>Office</string>
+		</dict>
+		<dict>
+			<key>lightZoneName</key>
+			<string>Kitchen</string>
+			<key>savantZoneName</key>
+			<string>Kitchen</string>
+		</dict>
+		<dict>
+			<key>lightZoneName</key>
+			<string>Dining</string>
+			<key>savantZoneName</key>
+			<string>Dining</string>
+		</dict>
+		<dict>
+			<key>lightZoneName</key>
+			<string>Media Room</string>
+			<key>savantZoneName</key>
+			<string>Media Room</string>
+		</dict>
+		<dict>
+			<key>lightZoneName</key>
+			<string>Living Room</string>
+			<key>savantZoneName</key>
+			<string>Living Room</string>
+		</dict>
+		<dict>
+			<key>lightZoneName</key>
+			<string>Master Bathroom</string>
+			<key>savantZoneName</key>
+			<string>Master Bathroom</string>
+		</dict>
+		<dict>
+			<key>lightZoneName</key>
+			<string>Master Bedroom</string>
+			<key>savantZoneName</key>
+			<string>Master Bedroom</string>
+		</dict>
+		<dict>
+			<key>lightZoneName</key>
+			<string>Equipment Room - Master Closet</string>
+			<key>savantZoneName</key>
+			<string>Equipment Room - Master Closet</string>
+		</dict>
+	</array>
+	<key>savZonesInfo</key>
+	<array>
+		<string>Master Bathroom</string>
+		<string>Master Bedroom</string>
+		<string>Dining Room</string>
+		<string>Living Room</string>
+		<string>Shared Equipment</string>
+		<string>Office</string>
+		<string>Kitchen</string>
+		<string>Media Room</string>
+		<string>Entry</string>
+		<string>Dining</string>
+		<string>Equipment Room - Master Closet</string>
+	</array>
+	<key>useLightZones</key>
+	<string>Yes</string>
+</dict>
+</plist>
